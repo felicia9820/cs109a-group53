@@ -9,6 +9,6 @@ This leads us to ask the question: which strategy, or combination of strategies,
 This repository contains the following:
 1. brazil_covid_response_final.ipynb: The ipython notebook used for preprocessing, EDA, baseline models (polynomial regression), and time series models. 
 2. Data: this folder includes all of our data used for visualizations and modeling. There was one data file which was too large to upload on Github. 
-3. Final_Report.pdf: our written report where we discuss our reasonings behind the chosen models, conclusions and impact statement. 
+3. Final_Report.pdf: our written report where we discuss our reasonings behind the chosen models, findings, conclusions and impact statement. 
 
 
