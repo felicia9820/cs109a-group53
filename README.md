@@ -11,5 +11,4 @@ This repository contains the following:
 2. Data: this folder includes all of our data used for visualizations and modeling. There was one data file which was too large to upload on Github. 
 3. Final_Report.pdf: our written report where we discuss our reasonings behind the chosen models, conclusions and impact statement. 
 
-Video link of our presentation:  
 
